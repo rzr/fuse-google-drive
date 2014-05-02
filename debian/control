@@ -1,10 +1,10 @@
 Source: fuse-google-drive
-Section: unknown
+Section: utils
 Priority: optional
 Maintainer: Philippe Coval <rzr@gna.org>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.4
-Homepage: <insert the upstream URL, if relevant>
+Homepage: https://github.com/jcline/fuse-google-drive
 #Vcs-Git: git://git.debian.org/collab-maint/fuse-google-drive.git
 #Vcs-Browser: http://git.debian.org/?p=collab-maint/fuse-google-drive.git;a=summary
 
